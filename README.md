@@ -287,7 +287,7 @@ p.note { display: none; }
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BzBSJBLa5LE?si=AJ-bw0ga_vCV8Fhe&autoplay=1&mute=1&loop=1&playlist=BzBSJBLa5LE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 
-<h2><span class="yellow">今回の移動経路</span></h2>
+<h2><span class="yellow">今回の移動経路、渋滞無しで2時間弱の移動時間でした</span></h2>
 <a href="20261122_00001.png" target="_blank"><img src="20261122_00001.png" alt="サンプル画像" class="responsive-media"></a>
 
 <!--
