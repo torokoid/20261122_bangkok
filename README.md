@@ -282,7 +282,7 @@ p.note { display: none; }
 <h2><span class="yellow">今ここにいるから、ちょっと待ってね！と地図と運転手さんの顔写真、車のNoが通知されます</span></h2>
 <a href="20261122_00032.jpeg" target="_blank"><img src="20261122_00032.jpeg" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">一般道がフリーウェイの下をくぐるトンネル、初めて通るとかなりビックリ、潜ったあとの右折シーンで後ろの一般車に抜かれちゃいました</span></h2>
+<h2><span class="yellow">一般道がフリーウェイの下をくぐるトンネル、初めて通るとかなりビックリ、潜ったあとの右折シーンで後ろの白い一般車に先を越されちゃいました</span></h2>
 <div class="youtube-wrapper">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BzBSJBLa5LE?si=AJ-bw0ga_vCV8Fhe&autoplay=1&mute=1&loop=1&playlist=BzBSJBLa5LE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
